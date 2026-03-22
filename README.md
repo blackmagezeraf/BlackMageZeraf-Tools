@@ -1,1 +1,1 @@
-Use this file to describe your package's features.
+Tools in this package are to do repetitive tasks easily by automating them. This in future might include other improvements if needed.
