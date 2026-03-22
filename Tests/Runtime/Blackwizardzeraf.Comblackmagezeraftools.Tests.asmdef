@@ -1,0 +1,11 @@
+{
+    "name": "Blackwizardzeraf.Comblackmagezeraftools.Tests",
+    "references": [
+        "Blackwizardzeraf.Comblackmagezeraftools"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

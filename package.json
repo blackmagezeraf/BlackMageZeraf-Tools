@@ -1,0 +1,16 @@
+{
+	"name": "com.blackmagezeraf.tools",
+	"displayName":"BlackMageZeraf Tools",
+	"version": "1.0.0",
+	"unity": "6000.3",
+	"unityRelease": "11f1",
+	"description": "Tools in this package are to do repetitive tasks easily by automating them. This in future might include other improvements if needed.",
+	"author": {
+		"name": "Ali Hussain Abid",
+		"url": "https://github.com/blackmagezeraf/blackmagezeraf.tools",
+		"email": "ali.hussain.abid.246@outlook.com"
+	},
+	"changelogUrl": "https://example.com/changelog.html",
+	"documentationUrl": "https://example.com/",
+	"licensesUrl": "https://example.com/licensing.html"
+}
