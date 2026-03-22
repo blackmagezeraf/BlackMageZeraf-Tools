@@ -10,7 +10,7 @@
 		"url": "https://github.com/blackmagezeraf/BlackMageZeraf-Tools",
 		"email": "ali.hussain.abid.246@outlook.com"
 	},
-	"changelogUrl": "https://example.com/changelog.html",
-	"documentationUrl": "https://example.com/",
-	"licensesUrl": "https://example.com/licensing.html"
+	"changelogUrl": "https://github.com/blackmagezeraf/BlackMageZeraf-Tools/blob/main/CHANGELOG.md",
+	"documentationUrl": "https://github.com/blackmagezeraf/BlackMageZeraf-Tools/blob/main/Documentation/com.blackmagezeraf.tools.md",
+	"licensesUrl": "https://github.com/blackmagezeraf/BlackMageZeraf-Tools/blob/main/LISCENSE"
 }
